@@ -1,5 +1,7 @@
-# Machine-Learning-
-Exploratory Data Analysis
+##  📊 📈 📉  Machine-Learning-
+
+
+# Exploratory Data Analysis
 
 1.[Churn Data EDA](https://github.com/Sakshi09wal/Exploratory-Data-Analysis-of-Churn-Dataset)
 
